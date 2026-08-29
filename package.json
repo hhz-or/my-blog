@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
-    "@astrojs/cloudflare": "^14.2.1",
-    "@astrojs/markdown-remark": "^7.2.2",
+    "@astrojs/cloudflare": "^14.2.5",
+    "@astrojs/markdown-remark": "^7.2.4",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/svelte": "^9.0.1",
@@ -35,7 +35,7 @@
     "@iconify/utils": "^2.3.0",
     "@swup/astro": "^1.7.0",
     "@tailwindcss/typography": "^0.5.19",
-    "astro": "^7.2.2",
+    "astro": "^7.2.9",
     "astro-expressive-code": "^0.44.1",
     "astro-icon": "^1.1.5",
     "astro-seo": "^1.1.0",
@@ -65,17 +65,17 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
-    "@astrojs/ts-plugin": "^1.10.10",
+    "@astrojs/ts-plugin": "^1.10.11",
     "@biomejs/biome": "2.2.5",
-    "autoprefixer": "^10.4.21",
     "@rollup/plugin-yaml": "^4.1.2",
     "@types/hast": "^3.0.4",
     "@types/markdown-it": "^14.1.2",
     "@types/mdast": "^4.0.4",
     "@types/sanitize-html": "^2.16.0",
+    "autoprefixer": "^10.4.21",
     "postcss-import": "^16.1.1",
     "postcss-nesting": "^13.0.2",
-    "wrangler": "^4.123.0"
+    "wrangler": "^4.127.0"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@11.24.0"
 }
