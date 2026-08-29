@@ -1,6 +1,6 @@
 {
   "name": "hhz-blog",
-  "compatibility_date": "2026-08-04",
+  "compatibility_date": "2026-02-04",
   "compatibility_flags": ["nodejs_compat", "disable_nodejs_process_v2"],
   "assets": {
     "binding": "ASSETS",
